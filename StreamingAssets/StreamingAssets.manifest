@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 4264895010
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: player
+      Dependencies:
+        Dependency_0: skills/skills
+    Info_1:
+      Name: explore/icons
+      Dependencies: {}
+    Info_2:
+      Name: skills/skills
+      Dependencies: {}
+    Info_3:
+      Name: skills/canvas
+      Dependencies:
+        Dependency_0: ui_icons
+    Info_4:
+      Name: bag/canvas
+      Dependencies:
+        Dependency_0: ui_icons
+    Info_5:
+      Name: item/icons
+      Dependencies: {}
+    Info_6:
+      Name: spell/canvas
+      Dependencies:
+        Dependency_0: ui_icons
+    Info_7:
+      Name: produce/canvas
+      Dependencies: {}
+    Info_8:
+      Name: home/canvas
+      Dependencies: {}
+    Info_9:
+      Name: battle/canvas
+      Dependencies: {}
+    Info_10:
+      Name: explore/canvas
+      Dependencies: {}
+    Info_11:
+      Name: setting/canvas
+      Dependencies: {}
+    Info_12:
+      Name: record/canvas
+      Dependencies:
+        Dependency_0: ui_icons
+    Info_13:
+      Name: battle/effect_icons
+      Dependencies: {}
+    Info_14:
+      Name: ui_icons
+      Dependencies: {}
